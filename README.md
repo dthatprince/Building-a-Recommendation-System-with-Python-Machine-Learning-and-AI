@@ -6,7 +6,7 @@ This repository contains the implementation of various recommendation systems us
 
 ## Introduction
 
-In this project, we explore different types of recommendation systems and demonstrate their implementation using Python and popular libraries such as Pandas, Scikit-learn, and NumPy. The implemented recommendation systems include:
+In this project, I explore different types of recommendation systems and demonstrate their implementation using Python and popular libraries such as Pandas, Scikit-learn, and NumPy. The implemented recommendation systems include:
 
 - Classification-based Collaborative Filtering Systems - Logistic Regression
 - Content-Based Recommenders - Nearest Neighbors Algorithm
@@ -14,7 +14,7 @@ In this project, we explore different types of recommendation systems and demons
 - Model-based Collaborative Filtering Systems with SVD Matrix Factorization
 - Popularity-Based Recommenders
 
-Each recommendation system is implemented in a separate module and follows a modular structure, making it easy to understand and modify. We provide detailed explanations and examples in the code to facilitate comprehension.
+Each recommendation system is implemented in a separate module and follows a modular structure, making it easy to understand and modify. I provide detailed explanations and examples in the code to facilitate comprehension.
 
 ## Recommendation Systems Implemented
 
